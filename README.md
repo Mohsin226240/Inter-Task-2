@@ -1,3 +1,4 @@
+Intermediate-Task 2
 This project is a professional, interactive Services/Portfolio web page designed with HTML5, CSS3, and vanilla JavaScript. 
 It demonstrates advanced frontend techniques including:
 
